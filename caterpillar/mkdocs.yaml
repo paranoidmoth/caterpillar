@@ -1,0 +1,30 @@
+site_name: Cocoon
+site_url: https://www.androidparanoid.info/
+theme: 
+  name: material
+  palette:
+    scheme: slate
+    primary: black
+    accent: indigo
+  font:
+    text: Roboto Mono
+  features:
+    - navigation.footer
+extra:
+  social:
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/@andr0idp4r4n0id
+
+markdown_extensions:
+- pymdownx.highlight:
+    anchor_linenums: true
+    line_spans: __span
+    pygments_lang_class: true
+- pymdownx.inlinehilite
+- pymdownx.snippets
+- pymdownx.superfences
+nav:
+  - Home: index.md
+  - Writeups:
+    - Home: writeups/index.md
+    - Pentesterlab: writeups/pentesterlab/Writeup. CVE-2007-1860 mod_jk double-decoding.md
