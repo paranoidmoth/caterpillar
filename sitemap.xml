@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://www.androidparanoid.info/</loc>
+         <lastmod>2023-09-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.androidparanoid.info/blog/</loc>
+         <lastmod>2023-09-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.androidparanoid.info/writeups/</loc>
+         <lastmod>2023-09-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.androidparanoid.info/writeups/pentesterlab/Writeup.%20CVE-2007-1860%20mod_jk%20double-decoding/</loc>
+         <lastmod>2023-09-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
