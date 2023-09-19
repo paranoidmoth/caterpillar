@@ -6,17 +6,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.androidparanoid.info/blog/</loc>
-         <lastmod>2023-09-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://www.androidparanoid.info/writeups/</loc>
          <lastmod>2023-09-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.androidparanoid.info/writeups/pentesterlab/Writeup.%20CVE-2007-1860%20mod_jk%20double-decoding/</loc>
+         <loc>https://www.androidparanoid.info/writeups/pentesterlab/CVE-2007-1860-Double-Encoding/</loc>
          <lastmod>2023-09-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
