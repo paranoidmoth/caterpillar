@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://www.androidparanoid.info/</loc>
-         <lastmod>2023-09-19</lastmod>
+         <lastmod>2023-09-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.androidparanoid.info/writeups/</loc>
-         <lastmod>2023-09-19</lastmod>
+         <lastmod>2023-09-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.androidparanoid.info/writeups/pentesterlab/CVE-2007-1860-Double-Encoding/</loc>
-         <lastmod>2023-09-19</lastmod>
+         <lastmod>2023-09-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
